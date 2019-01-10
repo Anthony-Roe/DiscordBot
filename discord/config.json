@@ -1,0 +1,39 @@
+{
+    "Debug": true,
+    "prefix": "!",
+    "cRepTime": 86400,
+    "channels": { 
+        "roles":510988184730075136,
+        "cRep":510986717600153630,
+        "bLog":510992454997245973,
+        "cInfo":510997491366494219,
+        "rules":510986537748529163,
+        "introduce":510988319421628425,
+        "twitch":510989304395202561
+    },
+    "tempChannels": {
+        "prefix": {"create": "👥", "delete": "--"},
+        "EFTTemp": []
+    },
+    "staffRoles": {
+        "quarter":"510982192394928139",
+        "captain":"510981789309992960"
+    },
+    "roles": {
+        "deckcrew":"510982394535477258",
+        "firstmate":"510982440538341378",
+        "quarter":"510982192394928139",
+        "captain":"510981789309992960"
+    },
+    "reactions": {
+        "🅰": { "name": "a", "role": "511002340594024470" }, 
+        "🅱": { "name": "b", "role": "511002502402146324" }, 
+        "🇨": { "name": "regional_indicator_c", "role": "511002557150265364" }, 
+        "🇩": { "name": "regional_indicator_d", "role": "511002584925077527" }, 
+        "🇪": { "name": "regional_indicator_e", "role": "511002632848932865" }, 
+        "🇬": { "name": "regional_indicator_g", "role": "511002656504807426" }, 
+        "🇵": { "name": "regional_indicator_p", "role": "511002683545616433" }, 
+        "🇿": { "name": "regional_indicator_z", "role": "511002729099821075" }, 
+        "🇧": { "name": "regional_indicator_b", "role": "511002755515809793" }
+    }
+}
