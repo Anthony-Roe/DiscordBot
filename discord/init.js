@@ -9,7 +9,7 @@ Discord.Commands = new Discord.package.Collection();
 Discord.users = {};
 Discord.Twitch = { channels: {} };
 
-Discord.bot.login("NTExMjMyMzkyMDYxNjQ4OTE4.Dsn5-w.oZ7BRIEzNc4I9otBXRV9M2KJikg");
+Discord.bot.login("*");
 
 // EVENTS
 
